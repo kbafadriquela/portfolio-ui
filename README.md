@@ -1,7 +1,9 @@
 # Portfolio UI
 
-
 Portfolio UI is a responsive WordPress theme derived from a Figma design, built on the `_s` or `Underscore` framework for easy customization.
+
+![Alt text](https://github.com/kbafadriquela/portfolio-ui/blob/main/assets/portfolio-ui.jpg "Portfolio UI")
+
 It offers a sleek, minimalist look, perfect for showcasing work and projects across all devices. Perfect for designers and developers featuring four distinct pages, including a blog and a case study section.
 
 ## Features
