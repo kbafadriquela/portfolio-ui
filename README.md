@@ -1,6 +1,6 @@
 # Portfolio UI
 
-**Portfolio UI** is a responsive **WordPress theme** derived from a Figma design, built on the [_s_ (Underscores)][Underscore] framework for easy customization and development flexibility.
+**Portfolio UI** is a responsive **WordPress theme** derived from a Figma design, built on the [__s_(Underscores)][Underscore] framework for easy customization and development flexibility.
 
 ![Portfolio UI Preview](https://github.com/kbafadriquela/portfolio-ui/blob/main/assets/portfolio-ui.jpg "Portfolio UI")
 
@@ -12,7 +12,7 @@ It’s ideal for designers and developers, featuring four distinct pages — inc
 ## Features
 
 - Minimalist, modern design  
-- Easy to customize and extend via the [_s_ (Underscores)](https://github.com/Automattic/_s) framework  
+- Easy to customize and extend via the [__s_(Underscores)](https://github.com/Automattic/_s) framework  
 - Fully supports the **Gutenberg** editor for seamless content management  
 - Integrated with **Advanced Custom Fields (ACF)** for flexible content editing  
 - Responsive layout that looks great on any device  
@@ -36,7 +36,7 @@ For more details, see the [GNU General Public License v2.0](https://www.gnu.org/
 ## Credits
 
 - **Design:** [Tinjo Thomas][df1] – *Portfolio UI – Web & Mobile*  
-- **Framework:** [Underscores (_s_)][Underscore]  
+- **Framework:** [Underscores (__s_)][Underscore]  
 - **Platform:** [WordPress](https://wordpress.org)  
 - **Developer:** [Meowpress.dev](https://github.com/kbafadriquela)
 
